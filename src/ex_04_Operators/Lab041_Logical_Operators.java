@@ -4,7 +4,7 @@ public class Lab041_Logical_Operators {
     public static void main(String[] args) {
         boolean b = true;
         boolean c = false;
-        boolean result =  b != c;
+        boolean result =  c != b;
         System.out.println(result);
 
         boolean d = false;
