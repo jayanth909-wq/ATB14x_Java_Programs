@@ -11,5 +11,12 @@ public class Lab02_In_De_02 {
         // ++a -> A -> ExpA -> 43 , a -> 43
         // +l
         // ++a -> B -> ExpB -> 44 , a -> 44
+
+
+        int a = 436;
+        System.out.println(a++ + a++);
+        // EX R T
+        //a - 436 r - 437
+        // 437 - 438
     }
 }
