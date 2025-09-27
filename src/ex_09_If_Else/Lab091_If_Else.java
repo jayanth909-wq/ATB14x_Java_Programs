@@ -11,10 +11,13 @@ public class Lab091_If_Else {
         if (age>18) {
             System.out.println("qaulified");
 
-            int a = 10;
-            int b = a++;
+            int a = 11;
+            int b = ++a;
             System.out.println(a);
             System.out.println(b);
+
+            // Ex Res o/p
+            // 10  0   0
         }
     }
 }
