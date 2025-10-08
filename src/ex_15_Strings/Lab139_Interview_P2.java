@@ -6,7 +6,7 @@ public class Lab139_Interview_P2 {
         String s2 = "hi";
         String s3 = "hi";
 
-        String s4 = "Hi"
+        String s4 = "Hi";
 
                 String ds = new String("hi");
         String fd = new String("hi");
