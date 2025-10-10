@@ -11,7 +11,7 @@ public class Lab05_Arrays_Max_Min {
 
 
        int yup = maxwell[0];
-        for (int i = 0; i < maxwell.length; i++) {
+        for (int i = 2; i < maxwell.length; i++) {
             if (maxwell[i] < yup){
                 yup = maxwell[i];
 
